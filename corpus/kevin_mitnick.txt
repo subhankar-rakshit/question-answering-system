@@ -1,0 +1,36 @@
+=====Kevin Mitnick=====
+
+Kevin David Mitnick (born August 6, 1963) is an American computer security consultant, author, and convicted hacker. He is best known for his high-profile 1995 arrest and five years in prison for various computer and communications-related crimes.[5]
+
+Mitnick's pursuit, arrest, trial, and sentence along with the associated journalism, books, and films were all controversial.[6][7]
+
+He now runs the security firm Mitnick Security Consulting, LLC. He is also the Chief Hacking Officer and part owner[8] of the security awareness training company KnowBe4, as well as an active advisory board member at Zimperium,[9] a firm that develops a mobile intrusion prevention system.
+
+=====Early life and education=====
+
+Mitnick was born in Van Nuys, California, on August 6, 1963.[11][self-published source?] He grew up in Los Angeles and attended James Monroe High School in Los Angeles, California,[12] during which time he became an amateur radio operator[13] and chose the nickname Condor after watching the movie Three Days of the Condor.[14] He was later enrolled at Los Angeles Pierce College and USC.[12] For a time, he worked as a receptionist for Stephen S. Wise Temple.
+
+=====Computer hacking=====
+
+At age 12, Mitnick got a bus driver to tell him where he could buy his own ticket punch for "a school project", and was then able to ride any bus in the greater LA area using unused transfer slips he found in a dumpster next to the bus company garage.[15]
+
+Mitnick first gained unauthorized access to a computer network in 1979, at 16, when a friend gave him the phone number for the Ark, the computer system that Digital Equipment Corporation (DEC) used for developing its RSTS/E operating system software.[16] He broke into DEC's computer network and copied the company's software, a crime for which he was charged and convicted in 1988. He was sentenced to 12 months in prison followed by three years of supervised release. Near the end of his supervised release, Mitnick hacked into Pacific Bell voicemail computers. After a warrant was issued for his arrest, Mitnick fled, becoming a fugitive for two-and-a-half years.[citation needed]
+
+According to the U.S. Department of Justice, Mitnick gained unauthorized access to dozens of computer networks while he was a fugitive. He used cloned cellular phones to hide his location and, among other things, copied valuable proprietary software from some of the country's largest cellular telephone and computer companies. Mitnick also intercepted and stole computer passwords, altered computer networks, and broke into and read private e-mails.
+
+=====Arrest, conviction, and incarceration=====
+
+After a well-publicized pursuit, the FBI arrested Mitnick on February 15, 1995, at his apartment in Raleigh, North Carolina, on federal offenses related to a two-and-a-half-year period of computer hacking which included computer and wire fraud.[18][19] He was found with cloned cellular phones, more than 100 cloned cellular phone codes, and multiple pieces of false identification.[20]
+
+In December 1997, the Yahoo! website was hacked, displaying a message calling for Mitnick's release. According to the message, all recent visitors of Yahoo!'s website had been infected with a computer worm that would wreak havoc on Christmas Day unless Mitnick was released. Yahoo! dismissed the claims as a hoax and said that the worm was nonexistent.[21][22]
+
+Mitnick was charged with wire fraud (14 counts), possession of unauthorized access devices (8 counts), interception of wire or electronic communications, unauthorized access to a federal computer, and causing damage to a computer.[citation needed]
+
+Mitnick was diagnosed with Asperger syndrome, but it was not used as evidence at his trial.[23] In 1999, Mitnick pleaded guilty to four counts of wire fraud, two counts of computer fraud, and one count of illegally intercepting a wire communication, as part of a plea agreement before the United States District Court for the Central District of California in Los Angeles. He was sentenced to 46 months in prison plus 22 months for violating the terms of his 1989 supervised release sentence for computer fraud. He admitted to violating the terms of supervised release by hacking into Pacific Bell voicemail and other systems and to associating with known computer hackers, in this case co-defendant Lewis De Payne.[1][24][25]
+
+Mitnick served five years in prison—four-and-a-half years' pre-trial and eight months in solitary confinement—because, according to Mitnick, law enforcement officials convinced a judge that he had the ability to "start a nuclear war by whistling into a pay phone",[26] implying that law enforcement told the judge that he could somehow dial into the NORAD modem via a payphone from prison and communicate with the modem by whistling to launch nuclear missiles.[27] In addition, a number of media outlets reported on the unavailability of kosher meals at the prison where he was incarcerated.[28]
+
+He was released on January 21, 2000. During his supervised release, which ended on January 21, 2003, he was initially forbidden to use any communications technology other than a landline telephone.[29] Under the plea deal, Mitnick was also prohibited from profiting from films or books based on his criminal activity for seven years, under a special judicial Son of Sam law variation.
+
+In December 2001, an FCC judge ruled that Mitnick was sufficiently rehabilitated to possess a federally issued amateur radio license.[30] Mitnick now runs Mitnick Security Consulting LLC, a computer security consultancy and is part owner of KnowBe4, provider of an integrated platform for security awareness training and simulated phishing testing.
+
